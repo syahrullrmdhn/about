@@ -3,26 +3,26 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syahrul%20Ramadhan&fontSize=60&fontAlignY=35&desc=Network%20Enginner%20%7C%20SysAdmin%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Fullstack&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syahrul%20Ramadhan&fontSize=60&fontAlignY=35&desc=Network%20Engineer%20%7C%20SysAdmin%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Fullstack&descAlignY=55&descSize=16" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=43+Repos+%7C+199+Commits+%7C+8+Languages;Full-Stack+%7C+DevOps+%7C+Cloud+%7C+SysAdmin;Building+cool+stuff+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Network+Engineer+%7C+DevOps+%7C+Fullstack;Turning+infra+problems+into+reliable+systems;Building+practical+tools+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/syahrullrmdhn">
     <img src="https://img.shields.io/badge/GitHub-syahrullrmdhn-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/syahrul-ramadhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rull911/">
+    <img src="https://img.shields.io/badge/LinkedIn-Syahrul_Ramadhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Views" />
 </p>
 
 <p align="center">
   <samp>
-    Kadang Network Enginner, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack
+    Kadang Network Engineer, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack
     <br/>
     <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
   </samp>
@@ -43,38 +43,34 @@
 
 ---
 
-### 📊 Quick Stats
+### 🚧 Currently Working On
+
+- **Personal blog & portfolio** at [syahrulramadhan.id](https://syahrulramadhan.id)
+- **Network monitoring & automation tools**
+- **Linux server administration & scripting**
+- **DevOps learning & hands-on practice**
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-43-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-199-green?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/Languages-8-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-12-yellow?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Member_Since-2019-lightgrey?style=flat-square&logo=github" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syahrullrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syahrullrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
-### 🛠️ Languages
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syahrullrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-14_repos-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-7_repos-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-6_repos-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-2_repos-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Shell-2_repos-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2_repos-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-1_repo-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1_repo-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-#### **Frameworks & Tools**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -82,6 +78,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
 </p>
 
 <p align="center">
@@ -89,13 +86,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 </p>
 
 ---
-
-
 
 ### 🚀 Featured Projects
 
@@ -118,6 +112,8 @@ _...and [37 more repositories](https://github.com/syahrullrmdhn?tab=repositories
 
 ### 🐍 Contribution Snake
 
+> ⚠️ _Setup required: Create repo `syahrullrmdhn/syahrullrmdhn` and add [snk](https://github.com/marketplace/actions/snk) GitHub Action to generate the snake animation._
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake.svg" />
@@ -134,9 +130,15 @@ _...and [37 more repositories](https://github.com/syahrullrmdhn?tab=repositories
 
 ---
 
+### 📫 Connect
+
 <p align="center">
-  <i>Available for collaboration &mdash; let's build something great!</i>
+  <a href="https://syahrulramadhan.id"><b>syahrulramadhan.id</b></a> &bull;
+  <a href="https://www.linkedin.com/in/rull911/"><b>LinkedIn</b></a> &bull;
+  <a href="https://github.com/syahrullrmdhn"><b>GitHub</b></a>
 </p>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
