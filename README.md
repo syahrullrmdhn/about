@@ -20,12 +20,11 @@
   <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Views" />
 </p>
 
+<table align="center"><tr><td style="font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;">
+
 <p align="center">
-  <samp>
-    Kadang Network Engineer, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack
-    <br/>
-    <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
-  </samp>
+  Kadang Network Engineer, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack<br/>
+  <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
 </p>
 
 ---
@@ -152,7 +151,7 @@
   <a href="https://github.com/syahrullrmdhn"><b>GitHub</b></a>
 </p>
 
----
+</td></tr></table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
