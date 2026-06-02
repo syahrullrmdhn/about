@@ -20,11 +20,9 @@
   <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Views" />
 </p>
 
-<table align="center"><tr><td style="font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;">
-
 <p align="center">
-  Kadang Network Engineer, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack<br/>
-  <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
+  <samp>Kadang Network Engineer, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack</samp><br/>
+  <samp><b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b></samp>
 </p>
 
 ---
@@ -56,13 +54,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syahrullrmdhn&theme=tokyonight" alt="Activity" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syahrullrmdhn&theme=tokyonight" alt="Top Languages" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syahrullrmdhn&theme=tokyonight" alt="Top Languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syahrullrmdhn&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syahrullrmdhn&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syahrullrmdhn&theme=tokyonight" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syahrullrmdhn&theme=tokyonight" alt="Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syahrullrmdhn&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -133,12 +131,12 @@
 ### 💡 Dev Quote & Activity
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="60%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syahrullrmdhn&theme=tokyonight&utcOffset=7" alt="Productive Time" width="32%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="62%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syahrullrmdhn&theme=tokyonight&utcOffset=7" width="32%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" width="62%" />
 </p>
 
 ---
@@ -151,7 +149,7 @@
   <a href="https://github.com/syahrullrmdhn"><b>GitHub</b></a>
 </p>
 
-</td></tr></table>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
