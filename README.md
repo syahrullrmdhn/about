@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Network+Engineer+%7C+DevOps+%7C+Fullstack;Turning+infra+problems+into+reliable+systems;Building+practical+tools+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&multiline=false&lines=Network+Engineer+%7C+DevOps+%7C+Fullstack;Turning+infra+problems+into+reliable+systems;Building+practical+tools+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,25 +30,27 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🧑‍💻 About
 
-- 🔭 Currently crafting **web apps & automation tools**
-- 🌱 Diving deep into **Cloud Architecture & DevOps**
+- 🔭 Crafting **web apps, automation & infra tools**
+- 🌱 Diving deep into **Cloud, DevOps & Linux SysAdmin**
 - 💬 Ask me about **JavaScript, PHP, TypeScript, Linux**
-- ⚡ Fun fact: **I debug with rubber ducks** 🦆
+- ⚡ Fun fact: **Debugging since 2019, debugging with rubber ducks** 🦆
 
 <br clear="right"/>
 
 ---
 
-### 🚧 Currently Working On
+### 🚧 What I'm Working On
 
-- **Personal blog & portfolio** at [syahrulramadhan.id](https://syahrulramadhan.id)
-- **Network monitoring & automation tools**
-- **Linux server administration & scripting**
-- **DevOps learning & hands-on practice**
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-syahrulramadhan.id-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Automation-4285F4?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Server_Admin-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -106,14 +108,18 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**resepbunda**](https://github.com/syahrullrmdhn/resepbunda) | Aplikasi resep masakan | `TypeScript` `Next.js` |
-| [**statement-automation**](https://github.com/syahrullrmdhn/statement-automation) | Automasi laporan & statement | `TypeScript` `Node.js` |
-| [**sarahapp**](https://github.com/syahrullrmdhn/sarahapp) | Web application dashboard | `JavaScript` `React` |
-| [**geosehat**](https://github.com/syahrullrmdhn/geosehat) | Sistem informasi kesehatan geografis | `PHP` `MySQL` |
-| [**backupmysql**](https://github.com/syahrullrmdhn/backupmysql) | Aplikasi Backup Otomatis MySQL | `PHP` `Composer` |
-| [**myinventory**](https://github.com/syahrullrmdhn/myinventory) | Aplikasi inventory management | `Kotlin` `Android` |
+| 🔥 [**resepbunda**](https://github.com/syahrullrmdhn/resepbunda) | Aplikasi resep masakan | `TypeScript` `Next.js` |
+| 📊 [**statement-automation**](https://github.com/syahrullrmdhn/statement-automation) | Automasi laporan & statement | `TypeScript` `Node.js` |
+| 🖥️ [**sarahapp**](https://github.com/syahrullrmdhn/sarahapp) | Web application dashboard | `JavaScript` `React` |
+| 🌍 [**geosehat**](https://github.com/syahrullrmdhn/geosehat) | Sistem informasi kesehatan geografis | `PHP` `MySQL` |
+| 💾 [**backupmysql**](https://github.com/syahrullrmdhn/backupmysql) | Aplikasi Backup Otomatis MySQL | `PHP` `Composer` |
+| 📱 [**myinventory**](https://github.com/syahrullrmdhn/myinventory) | Aplikasi inventory management | `Kotlin` `Android` |
 
-_...and [37 more repositories](https://github.com/syahrullrmdhn?tab=repositories) to explore!_
+<p align="center">
+  <a href="https://github.com/syahrullrmdhn?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-37%20More-58A6FF?style=flat-square&logo=github" />
+  </a>
+</p>
 
 </div>
 
