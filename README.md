@@ -3,37 +3,44 @@
 </div>
 
 <p align="center">
-  <a href="https://syahrulramadhan.id"><img src="https://img.shields.io/badge/Portfolio-syahrulramadhan.id-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://wa.me/62895385629346"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/syahrullrmdhn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Profile+Views" />
+  <a href="https://syahrulramadhan.id">
+    <img src="https://img.shields.io/badge/Portfolio-syahrulramadhan.id-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://wa.me/62895385629346">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/syahrullrmdhn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Views" />
 </p>
 
 <p align="center">
   <samp>
-    Kadang Network Enginner, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack<br/>
+    Kadang Network Enginner, Kadang SysAdmin, Kadang DevOps, Kadang Cloud Engineer, Kadang Fullstack
+    <br/>
     <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
   </samp>
 </p>
 
 ---
 
-### 📊 GitHub at a Glance
+### 📊 Quick Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-43-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-12-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-199-green?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/Languages-8-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-11-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Joined-2019-lightgrey?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-12-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Member_Since-2019-lightgrey?style=flat-square&logo=github" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Languages
+### 🛠️ Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syahrullrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syahrullrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
 </p>
 
 <p align="center">
@@ -56,8 +63,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 <p align="center">
@@ -65,6 +71,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 </p>
 
 ---
@@ -72,12 +80,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syahrullrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=syahrullrmdhn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syahrullrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=syahrullrmdhn&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="90%" />
 </p>
 
 ---
@@ -85,11 +93,20 @@
 ### 🚀 Featured Projects
 
 <p align="left">
+  <a href="https://github.com/syahrullrmdhn/resepbunda">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=resepbunda&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/syahrullrmdhn/statement-automation">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=statement-automation&theme=tokyonight&hide_border=true" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/syahrullrmdhn/sarahapp">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=sarahapp&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/syahrullrmdhn/geosehat">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=geosehat&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -97,32 +114,23 @@
   <a href="https://github.com/syahrullrmdhn/backupmysql">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=backupmysql&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/syahrullrmdhn/cookshare">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=cookshare&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/syahrullrmdhn/myinventory">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=myinventory&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/syahrullrmdhn/animefinder">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=animefinder&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/syahrullrmdhn/local-looking-glass">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=local-looking-glass&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syahrullrmdhn&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syahrullrmdhn&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Available for collaboration &mdash; let's build something great!</i>
 </p>
 
 <div align="center">
