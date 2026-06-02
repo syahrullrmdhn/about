@@ -55,8 +55,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syahrullrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syahrullrmdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syahrullrmdhn&theme=tokyonight" alt="Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syahrullrmdhn&theme=tokyonight" alt="Activity" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syahrullrmdhn&theme=tokyonight" alt="Top Languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syahrullrmdhn&theme=tokyonight&utcOffset=7" alt="Productive Time" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="90%" />
 </p>
 
 ---
