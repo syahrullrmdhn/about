@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syahrul%20Ramadhan&fontSize=60&fontAlignY=35&desc=Network%20Enginner%20%7C%20SysAdmin%20%7C%20DevOps%20%7C%20Cloud%20Engineer%20%7C%20Fullstack&descAlignY=55&descSize=16" />
 </div>
 
@@ -95,32 +99,30 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/syahrullrmdhn/resepbunda">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=resepbunda&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/syahrullrmdhn/statement-automation">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=statement-automation&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/syahrullrmdhn/sarahapp">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=sarahapp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/syahrullrmdhn/geosehat">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=geosehat&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**resepbunda**](https://github.com/syahrullrmdhn/resepbunda) | Aplikasi resep masakan | `TypeScript` `Next.js` |
+| [**statement-automation**](https://github.com/syahrullrmdhn/statement-automation) | Automasi laporan & statement | `TypeScript` `Node.js` |
+| [**sarahapp**](https://github.com/syahrullrmdhn/sarahapp) | Web application dashboard | `JavaScript` `React` |
+| [**geosehat**](https://github.com/syahrullrmdhn/geosehat) | Sistem informasi kesehatan geografis | `PHP` `MySQL` |
+| [**backupmysql**](https://github.com/syahrullrmdhn/backupmysql) | Aplikasi Backup Otomatis MySQL | `PHP` `Composer` |
+| [**myinventory**](https://github.com/syahrullrmdhn/myinventory) | Aplikasi inventory management | `Kotlin` `Android` |
 
-<p align="left">
-  <a href="https://github.com/syahrullrmdhn/backupmysql">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=backupmysql&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/syahrullrmdhn/local-looking-glass">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=syahrullrmdhn&repo=local-looking-glass&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+_...and [37 more repositories](https://github.com/syahrullrmdhn?tab=repositories) to explore!_
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ---
 
