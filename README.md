@@ -3,6 +3,10 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=43+Repos+%7C+199+Commits+%7C+8+Languages;Full-Stack+%7C+DevOps+%7C+Cloud+%7C+SysAdmin;Building+cool+stuff+since+2019+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://syahrulramadhan.id">
     <img src="https://img.shields.io/badge/Portfolio-syahrulramadhan.id-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -22,6 +26,19 @@
     <b>PT. Surya Anugrah Mulya</b> &bull; <b>Tangerang Selatan, Indonesia</b>
   </samp>
 </p>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+### 🧑‍💻 About
+
+- 🔭 Currently crafting **web apps & automation tools**
+- 🌱 Diving deep into **Cloud Architecture & DevOps**
+- 💬 Ask me about **JavaScript, PHP, TypeScript, Linux**
+- ⚡ Fun fact: **I debug with rubber ducks** 🦆
+
+<br clear="right"/>
 
 ---
 
