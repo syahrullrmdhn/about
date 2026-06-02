@@ -112,8 +112,6 @@ _...and [37 more repositories](https://github.com/syahrullrmdhn?tab=repositories
 
 ### 🐍 Contribution Snake
 
-> ⚠️ _Setup required: Create repo `syahrullrmdhn/syahrullrmdhn` and add [snk](https://github.com/marketplace/actions/snk) GitHub Action to generate the snake animation._
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syahrullrmdhn/syahrullrmdhn/output/github-contribution-grid-snake.svg" />
