@@ -7,14 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://syahrulramadhan.id">
-    <img src="https://img.shields.io/badge/Portfolio-syahrulramadhan.id-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://wa.me/62895385629346">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://github.com/syahrullrmdhn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-syahrullrmdhn-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/syahrul-ramadhan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=syahrullrmdhn&style=for-the-badge&color=blue&label=Views" />
 </p>
@@ -94,18 +91,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syahrullrmdhn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=syahrullrmdhn&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syahrullrmdhn&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="90%" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
